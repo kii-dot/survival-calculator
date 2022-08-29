@@ -1,0 +1,41 @@
+income:
+  - name: microsoft
+    amount: 3300
+    frequency: Biweekly
+expenses:
+  - name : shelter
+    expenses:
+      - name: rent
+        amount: 1800
+        frequency: Monthly
+      - name: rent insurance
+        amount: 50
+        frequency: Monthly
+  - name: food
+    expenses:
+      - name: breakfast
+        amount: 5
+        frequency: Daily
+      - name: lunch
+        amount: 15
+        frequency: Daily
+      - name: dinner
+        amount: 25
+        frequency: Daily
+  - name: utilities
+    expenses:
+      - name: electricity
+        amount: 45
+        frequency: Bimonthly
+      - name: wifi
+        amount: 89.6
+        frequency: Monthly
+      - name: transportation
+        amount: 132.5
+        frequency: Monthly
+      - name: water
+        amount: 0
+        frequency: Monthly
+      - name: gas
+        amount: 0
+        frequency: Monthly

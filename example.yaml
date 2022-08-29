@@ -1,0 +1,4 @@
+incomes:
+  - name: microsoft
+    amount: 1000
+    frequency: Biweekly

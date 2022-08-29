@@ -1,0 +1,7 @@
+const ONE_MILLION: u32 = 1_000_000;
+
+const YEAR: u16 = 365;
+const HOURS_IN_DAY: u16 = 12;
+
+const HOURS_IN_YEAR: u32 = (YEAR * HOURS_IN_DAY) as u32;
+const ONE_MILLION_PER_HOUR_IN_A_YEAR: u32 = ONE_MILLION / HOURS_IN_YEAR;
